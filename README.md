@@ -102,7 +102,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Adil Hassan**
+**Adil Hussain**
 - GitHub: [@adilh333](https://github.com/adilh333)
 
 ## 📞 Contact
